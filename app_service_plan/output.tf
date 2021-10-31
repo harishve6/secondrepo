@@ -1,0 +1,3 @@
+output "appservice_plan" {
+  
+}

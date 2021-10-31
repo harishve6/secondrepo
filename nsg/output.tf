@@ -1,0 +1,3 @@
+output "nsg_name" {
+  
+}
